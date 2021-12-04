@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavaScriptReact
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on fullstack project.
 - 📫 How to reach me petricek.luki.lpe@gmail.com .
 
